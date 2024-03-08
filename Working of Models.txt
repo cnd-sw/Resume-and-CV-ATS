@@ -1,4 +1,4 @@
-How to project works.
+How the project works.
 
 PDF_Resume Summariser.ipynb
 
