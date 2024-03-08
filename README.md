@@ -3,7 +3,7 @@ Summarising the resume and then running ATS test on it and then accepting or rej
 
 In the project, the ATS (Applicant Tracking System) score was calculated using a combination of keyword matching and scoring techniques. The goal was to assess the relevance of a resume to a specific job or category based on the presence of relevant keywords.
 
-Here's how the ATS score calculation process works:
+##Here's how the ATS score calculation process works:
 
 1. **Keyword Identification**: Relevant keywords or key phrases are identified for each job or category. These keywords represent the skills, qualifications, experience, or other attributes desired for the role.
 
