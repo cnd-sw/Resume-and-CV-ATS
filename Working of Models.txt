@@ -1,19 +1,7 @@
-How the project works.
+The functionality of the "PDF_Resume Summariser.ipynb" file involves receiving the file path of a resume in PDF format from the local machine. Upon execution, this algorithm generates a concise summary of the resume content in text format.
 
-PDF_Resume Summariser.ipynb
+The "Resume Screening(ATS).ipynb" file operates by analyzing key elements within resumes. It incorporates a list of blacklisted terms, which if identified in the summary, result in the rejection of the resume. Additionally, input keywords are utilized to filter and shortlist resumes. Resumes containing these specific keywords are prioritized for consideration.
 
-This file works by taking in the path of the resume file from the local computer.
-When run through this algorithm, it will summarise the Resume of PDF format and return the summarised essay in form of text.
+Furthermore, the ATS evaluates the summary of the resume to calculate its suitability based on predetermined criteria. 
 
-Resume Screening(ATS).ipynb
-
-This file works by taking in the main works for the resume.
-There are input words of blacklisted words, where if detected in the summary, the resume will be rejected.
-
-Keywords are takin in input where the resume will be shortlisted based on these words.
-It means that if the resume consists of these words, the resume will be considered.
-
-Summary of essay is taken as input. 
-When the ATS works, it considers this text and the score of ATS is calculated from this.
-
-The working of the models are explained in the Readme.md file
+Detailed explanations regarding the functionality of these models are available in the accompanying "Readme.md" file.
